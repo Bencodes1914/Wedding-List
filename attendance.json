@@ -161,13 +161,23 @@
         "methodOfInvitation": "Card"
     },
     {
-        "name": "Baagry Family",
-        "members": 2,
+        "name": "Badagry",
+        "members": 1,
         "methodOfInvitation": "Card"
     },
     {
-        "name": "Awa Family",
-        "members": 2,
+        "name": "Awa",
+        "members": 1,
+        "methodOfInvitation": "Card"
+    },
+    {
+        "name": "Baagry",
+        "members": 1,
+        "methodOfInvitation": "Card"
+    },
+    {
+        "name": "Joel",
+        "members": 1,
         "methodOfInvitation": "Card"
     }
 ]
