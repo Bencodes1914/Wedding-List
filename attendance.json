@@ -179,5 +179,40 @@
         "name": "Joel",
         "members": 1,
         "methodOfInvitation": "Card"
+    },
+    {
+        "name": "Adeniyi Family",
+        "members": 2,
+        "methodOfInvitation": "Card"
+    },
+    {
+        "name": "Olushoye Family",
+        "members": 2,
+        "methodOfInvitation": "Card"
+    },
+    {
+        "name": "Salami Family",
+        "members": 2,
+        "methodOfInvitation": "Card"
+    },
+    {
+        "name": "Bro Bayu",
+        "members": 1,
+        "methodOfInvitation": "Card"
+    },
+    {
+        "name": "Miss Teniola",
+        "members": 1,
+        "methodOfInvitation": "Card"
+    },
+    {
+        "name": "Miss Wumi",
+        "members": 1,
+        "methodOfInvitation": "Card"
+    },
+    {
+        "name": "Miss Seun",
+        "members": 1,
+        "methodOfInvitation": "Card"
     }
 ]
