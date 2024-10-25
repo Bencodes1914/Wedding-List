@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.disc{
+    background-color:black;
+}
+main{
+    margin: 10px;
+    margin-top: 20px;
+    background-color: white;
+    width: fit-content;
+    height: fit-content;
+}
+body{
+    font-family: Arial, Verdana, sans-serif;
+    color: #111111;
+}
+th{
+    padding: 5px;
+    background-color: #cccccc;
+}
+
+td{
+    padding:5px;
+    /* background-color: #cccccc; */
+    font-size: large;
+    width: 10px;
+    height: 5px;
+}
+/*
+tr:hover{
+    text-decoration: underline;
+    background: black;
+    color:white
+}*/
+table{
+    width: 600px;
+}
+
+table tr:nth-child(even) {
+    background: grey;
+}
+
+th, td{
+    padding: 7px 10px 10px 10px;
+}
+
+th{
+    letter-spacing: 0.1em;
+    font-size: 90%;
+    border-bottom: 2px solid black;
+    border-top: 1px solid #999;
+    text-align: left;
+}
