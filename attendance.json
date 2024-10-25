@@ -2,172 +2,172 @@
     
     {
       "name": "Olarewaju Family",
-      "Number": 4,
+      "members": 4,
       "methodOfInvitation": "Phone"   
     },
     {
         "name": "Akpan Family",
-        "Number": 4,
+        "members": 4,
         "methodOfInvitation": "Phone"
     },
     {
         "name": "Angela Family",
-        "Number": 5,
+        "members": 5,
         "methodOfInvitation": "Phone"
     },
     {
         "name": "Julius Family",
-        "Number": 3,
+        "members": 3,
         "methodOfInvitation": "Phone"
     },
     {
         "name": "Maxwell Family",
-        "Number": 2,
+        "members": 2,
         "methodOfInvitation": "Phone"
     },
     {
         "name": "Offiong Family",
-        "Number": 1,
+        "members": 1,
         "methodOfInvitation": "Phone"
     },
     {
         "name": "Nwankwor Family",
-        "Number": 4,
+        "members": 4,
         "methodOfInvitation": "Phone"
     },
     {
         "name": "Nwachukwu Family",
-        "Number": 6,
+        "members": 6,
         "methodOfInvitation": "Phone"
     },
     {
         "name": "Chinedu Family",
-        "Number": 7,
+        "members": 7,
         "methodOfInvitation": "Phone"
     },
     {
         "name": "Ogra Family",
-        "Number": 3,
+        "members": 3,
         "methodOfInvitation": "Phone"
     },
     {
         "name": "Tudonu Family",
-        "Number": 2,
+        "members": 2,
         "methodOfInvitation": "Card"
     },
     {
         "name": "Oboravo Family",
-        "Number": 2,
+        "members": 2,
         "methodOfInvitation": "Card"
     },
     {
         "name": "Akpan Family",
-        "Number": 2,
+        "members": 2,
         "methodOfInvitation": "Phone"
     },
     {
         "name": "Akaolisa Family",
-        "Number": 2,
+        "members": 2,
         "methodOfInvitation": "Phone"
     },
     {
         "name": "Ojo Family",
-        "Number": 2,
+        "members": 2,
         "methodOfInvitation": "Phone"
     },
     {
         "name": "Sis Okoro",
-        "Number": 1,
+        "members": 1,
         "methodOfInvitation": "Card"
     },
     {
         "name": "Omiunu Family",
-        "Number": 2,
+        "members": 2,
         "methodOfInvitation": "Card"
     },
     {
         "name": "Azubuike Family",
-        "Number": 2,
+        "members": 2,
         "methodOfInvitation": "Phone"
     },
     {
         "name": "Aaron Family",
-        "Number": 2,
+        "members": 2,
         "methodOfInvitation": "Phone"
     },
     {
         "name": "Anidu Family",
-        "Number": 2,
+        "members": 2,
         "methodOfInvitation": "Phone"
     },
     {
         "name": "Effiong Family",
-        "Number": 2,
+        "members": 2,
         "methodOfInvitation": "Card"
     },
     {
         "name": "Daniel Ohioma Family",
-        "Number": 2,
+        "members": 2,
         "methodOfInvitation": "Phone"
     },
     {
         "name": "Sis Anyanwu Christiana",
-        "Number": 3,
+        "members": 3,
         "methodOfInvitation": "Phone"
     },
     {
         "name": "Daddy Vivian",
-        "Number": 1,
+        "members": 1,
         "methodOfInvitation": "Card"
     },
     {
         "name": "Gospel Family",
-        "Number": 2,
+        "members": 2,
         "methodOfInvitation": "Card"
     },
     {
         "name": "Nwaodu Family",
-        "Number": 2,
+        "members": 2,
         "methodOfInvitation": "Card"
     },
     {
         "name": "Okereke Family",
-        "Number": 2,
+        "members": 2,
         "methodOfInvitation": "Card"
     },
     {
         "name": "Ekeh Family",
-        "Number": 2,
+        "members": 2,
         "methodOfInvitation": "Phone"
     },
     {
         "name": "Abalaba Family",
-        "Number": 3,
+        "members": 3,
         "methodOfInvitation": "Phone"
     },
     {
         "name": "Egwuogu Family",
-        "Number": 2,
+        "members": 2,
         "methodOfInvitation": "Phone"
     },
     {
         "name": "Sis Iheme",
-        "Number": 1,
+        "members": 1,
         "methodOfInvitation": "Card"
     },
     {
         "name": "Kelvin Family",
-        "Number": 5,
+        "members": 5,
         "methodOfInvitation": "Card"
     },
     {
         "name": "Baagry Family",
-        "Number": 2,
+        "members": 2,
         "methodOfInvitation": "Card"
     },
     {
         "name": "Awa Family",
-        "Number": 2,
+        "members": 2,
         "methodOfInvitation": "Card"
     }
 ]
