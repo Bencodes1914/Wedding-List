@@ -22,8 +22,22 @@ const loopResult = (data) => {
             </tr>
         `)
     });
-    tableElement.innerHTML=`${tableHead}${tableDataMapped}`;
-    console.log(tableDataMapped);
+
+    let countedMember = 0;
+    const totalMembers = data.map((element) =>{
+       countedMember = countedMember + element.members
+    });
+
+    const countColumn = `
+        <tr>
+            <td scope="row">${data.length}</td>
+            <td>Total:</td> 
+            <td>${countedMember}</td>
+            <td>-</td>  
+        </tr>
+    `
+    tableElement.innerHTML=`${tableHead}${tableDataMapped}${countColumn}`;
+    console.log(countedMember);
 }
 
 const getData = () => {
