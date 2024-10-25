@@ -17,7 +17,7 @@ const loopResult = (data) => {
             <tr>
                 <td scope="row">${key}.</td>
                 <td>${element.name}.</td> 
-                <td>${element.member}.</td>
+                <td>${element.members}.</td>
                 <td>${element.methodOfInvitation}.</td>  
             </tr>
         `)
