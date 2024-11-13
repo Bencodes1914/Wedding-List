@@ -33,17 +33,17 @@
     {
         "name": "Nwankwor Family",
         "members": 4,
-        "methodOfInvitation": "Phone"
+        "methodOfInvitation": "Card"
     },
     {
         "name": "Nwachukwu Family",
         "members": 6,
-        "methodOfInvitation": "Phone"
+        "methodOfInvitation": "Card"
     },
     {
         "name": "Chinedu Family",
         "members": 7,
-        "methodOfInvitation": "Phone"
+        "methodOfInvitation": "Card"
     },
     {
         "name": "Ogra Family",
@@ -56,24 +56,14 @@
         "methodOfInvitation": "Card"
     },
     {
-        "name": "Oboravo Family",
+        "name": "Akpan Family",
         "members": 2,
         "methodOfInvitation": "Card"
     },
     {
-        "name": "Akpan Family",
-        "members": 2,
-        "methodOfInvitation": "Phone"
-    },
-    {
-        "name": "Akaolisa Family",
-        "members": 2,
-        "methodOfInvitation": "Phone"
-    },
-    {
         "name": "Ojo Family",
         "members": 2,
-        "methodOfInvitation": "Phone"
+        "methodOfInvitation": "Card"
     },
     {
         "name": "Sis Okoro",
@@ -81,24 +71,19 @@
         "methodOfInvitation": "Card"
     },
     {
-        "name": "Omiunu Family",
+        "name": "Azubuike Family",
         "members": 2,
         "methodOfInvitation": "Card"
     },
     {
-        "name": "Azubuike Family",
-        "members": 2,
-        "methodOfInvitation": "Phone"
-    },
-    {
         "name": "Aaron Family",
         "members": 2,
-        "methodOfInvitation": "Phone"
+        "methodOfInvitation": "Card"
     },
     {
         "name": "Anidu Family",
         "members": 2,
-        "methodOfInvitation": "Phone"
+        "methodOfInvitation": "Card"
     },
     {
         "name": "Effiong Family",
@@ -108,12 +93,12 @@
     {
         "name": "Daniel Ohioma Family",
         "members": 2,
-        "methodOfInvitation": "Phone"
+        "methodOfInvitation": "Card"
     },
     {
         "name": "Sis Anyanwu Christiana",
         "members": 3,
-        "methodOfInvitation": "Phone"
+        "methodOfInvitation": "Card"
     },
     {
         "name": "Daddy Vivian",
@@ -138,17 +123,17 @@
     {
         "name": "Ekeh Family",
         "members": 2,
-        "methodOfInvitation": "Phone"
+        "methodOfInvitation": "Card"
     },
     {
         "name": "Abalaba Family",
         "members": 3,
-        "methodOfInvitation": "Phone"
+        "methodOfInvitation": "Card"
     },
     {
         "name": "Egwuogu Family",
         "members": 2,
-        "methodOfInvitation": "Phone"
+        "methodOfInvitation": "Card"
     },
     {
         "name": "Sis Iheme",
@@ -163,22 +148,22 @@
     {
         "name": "Badagry",
         "members": 1,
-        "methodOfInvitation": "Card"
+        "methodOfInvitation": "Phone"
     },
     {
         "name": "Awa",
         "members": 1,
-        "methodOfInvitation": "Card"
+        "methodOfInvitation": "Phone"
     },
     {
         "name": "Baagry",
         "members": 1,
-        "methodOfInvitation": "Card"
+        "methodOfInvitation": "Phone"
     },
     {
         "name": "Joel",
         "members": 1,
-        "methodOfInvitation": "Card"
+        "methodOfInvitation": "Phone"
     },
     {
         "name": "Adeniyi Family",
@@ -213,6 +198,21 @@
     {
         "name": "Miss Seun",
         "members": 1,
+        "methodOfInvitation": "Card"
+    },
+    {
+        "name": "Taye Kexstro",
+        "members": 1,
+        "methodOfInvitation": "Phone"
+    },
+    {
+        "name": "Akinbobola Family",
+        "members": 2,
+        "methodOfInvitation": "Card"
+    },
+    {
+        "name": "Odadhe Family",
+        "members": 2,
         "methodOfInvitation": "Card"
     }
 ]
