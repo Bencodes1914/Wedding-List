@@ -274,5 +274,10 @@
         "name":"Mr Maurice Etim",
         "members":1 ,
         "methodOfInvitation": "Phone"
+    },
+    {
+        "name":"Mr's Ismalia",
+        "members": 1,
+        "methodOfInvitation": "Phone"
     }
 ]
