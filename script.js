@@ -41,7 +41,7 @@ const loopResult = (data) => {
 }
 
 const getData = () => {
-    fetch('')
+    fetch('https://wedding-list-theta.vercel.app/attendance.json')
         .then(async (data) => {
             attendeeData = await data.json();
             loopResult(attendeeData);
