@@ -21,12 +21,12 @@
         "methodOfInvitation": "Phone"
     },
     {
-        "name": "Maxwell Family",
+        "name": "Mr Maxwell Bassey",
         "members": 2,
         "methodOfInvitation": "Phone"
     },
     {
-        "name": "Offiong Family",
+        "name": "Mr Offiong Ukpong",
         "members": 1,
         "methodOfInvitation": "Phone"
     },
@@ -161,7 +161,7 @@
         "methodOfInvitation": "Phone"
     },
     {
-        "name": "Joel",
+        "name": "Rapheal Joel Chibunna",
         "members": 1,
         "methodOfInvitation": "Phone"
     },
@@ -214,5 +214,65 @@
         "name": "Odadhe Family",
         "members": 2,
         "methodOfInvitation": "Card"
+    },
+    {
+        "name": "Miss Monica Johnson",
+        "members": 1,
+        "methodOfInvitation": "Phone" 
+    },
+    {
+        "name":"Sis Ponjolosun",
+        "members":1 ,
+        "methodOfInvitation": "Phone"
+    },
+    {
+        "name":"Udoh Family",
+        "members": 2,
+        "methodOfInvitation": "Phone"
+    },
+    {
+        "name":"Ekpo Family",
+        "members": 2,
+        "methodOfInvitation": "Phone"
+    },
+    {
+        "name":"Omiunu Family",
+        "members": 2,
+        "methodOfInvitation": "Card"
+    },
+    {
+        "name":"Adegbite Family",
+        "members": 5,
+        "methodOfInvitation": "Card"
+    },
+    {
+        "name":"Sis Queen Emoh",
+        "members": 1,
+        "methodOfInvitation": "Phone"
+    },
+    {
+        "name":"Emezua Family",
+        "members": 5,
+        "methodOfInvitation": "Phone"
+    },
+    {
+        "name":"Mr Jesse James",
+        "members":1 ,
+        "methodOfInvitation": "Phone"
+    },
+    {
+        "name":"Papa Linda",
+        "members":1 ,
+        "methodOfInvitation": "Phone"
+    },
+    {
+        "name":"Miss Shulamite Bassey",
+        "members":1 ,
+        "methodOfInvitation": "Phone"
+    },
+    {
+        "name":"Mr Maurice Etim",
+        "members":1 ,
+        "methodOfInvitation": "Phone"
     }
 ]
