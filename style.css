@@ -8,9 +8,12 @@
 main{
     margin: 10px;
     margin-top: 20px;
+    margin-left: 355px;
     background-color: white;
     width: fit-content;
     height: fit-content;
+    display: grid;
+    place-content: center;
 }
 body{
     font-family: Arial, Verdana, sans-serif;
@@ -52,4 +55,14 @@ th{
     border-bottom: 2px solid black;
     border-top: 1px solid #999;
     text-align: left;
+}
+input{
+    height: 35px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+input::placeholder{
+    padding-left: 10px;
+    font-size: 16px;
+    font-style: italic;
 }

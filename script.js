@@ -1,4 +1,7 @@
 let attendeeData;
+const prodHostUrl = "https://wedding-list-theta.vercel.app";
+const localHostUrl = "http://127.0.0.1:5501"
+
 
 const tableElement = document.getElementById('attendee-table');
 
@@ -41,7 +44,7 @@ const loopResult = (data) => {
 }
 
 const getData = () => {
-    fetch('https://wedding-list-theta.vercel.app/attendance.json')
+    fetch(`${localHostUrl}/attendance.json`)
         .then(async (data) => {
             attendeeData = await data.json();
             loopResult(attendeeData);
@@ -50,3 +53,8 @@ const getData = () => {
         });
 }
 getData();git 
+function inputFunction() {
+    var userInput =
+document.getElementById("input-field").value;
+    console.log(userInput);
+}
