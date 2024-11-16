@@ -279,5 +279,10 @@
         "name":"Mr's Ismalia",
         "members": 1,
         "methodOfInvitation": "Phone"
+    },
+    {
+        "name": "Eno Family",
+        "members": 2,
+        "methodOfInvitation": "Phone"
     }
 ]
