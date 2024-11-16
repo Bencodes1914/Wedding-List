@@ -1,68 +1,110 @@
-*{
-    padding: 0;
-    margin: 0;
-}
-.disc{
-    background-color:black;
-}
-main{
-    margin: 10px;
-    margin-top: 20px;
-    margin-left: 355px;
-    background-color: white;
-    width: fit-content;
-    height: fit-content;
-    display: grid;
-    place-content: center;
-}
-body{
-    font-family: Arial, Verdana, sans-serif;
-    color: #111111;
-}
-th{
-    padding: 5px;
-    background-color: #cccccc;
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@100..900&family=Manrope:wght@200..800&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Geist', sans-serif;
 }
 
-td{
-    padding:5px;
-    /* background-color: #cccccc; */
-    font-size: large;
-    width: 10px;
-    height: 5px;
+body {
+  overflow-x: hidden;
+  font-family: Arial, Verdana, sans-serif;
+  color: #111111;
 }
-/*
-tr:hover{
-    text-decoration: underline;
-    background: black;
-    color:white
-}*/
-table{
-    width: 600px;
+
+.disc {
+  background-color: black;
+}
+
+main {
+  height: fit-content;
+  width: 100vw;
+  padding: 2rem 4rem;
+  background: #d66c6c;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  text-align: left;
+  align-self: flex-start;
+  margin-bottom: 1rem;
+}
+
+.query {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 80% 20%;
+  gap: 1rem;
+
+  margin-bottom: 1rem;
+}
+
+input {
+  height: 35px;
+  width: 100%;
+  border: 2px solid #c7c7c7;
+  border-radius: 5px;
+  padding: 1.5rem 3rem;
+  outline: none;
+  transition: all 0.5s;
+}
+
+input:active {
+  border-color: #989494;
+}
+
+input::placeholder {
+  padding-left: 10px;
+  font-size: 16px;
+  font-style: italic;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  padding: 5px;
+  background-color: #cccccc;
+}
+
+td {
+  padding: 5px;
+  /* background-color: #cccccc; */
+  font-size: large;
+  width: 10px;
+  height: 5px;
 }
 
 table tr:nth-child(even) {
-    background: grey;
+  background: grey;
 }
 
-th, td{
-    padding: 7px 10px 10px 10px;
+th,
+td {
+  padding: 7px 10px 10px 10px;
 }
 
-th{
-    letter-spacing: 0.1em;
-    font-size: 90%;
-    border-bottom: 2px solid black;
-    border-top: 1px solid #999;
-    text-align: left;
+th {
+  letter-spacing: 0.1em;
+  font-size: 90%;
+  border-bottom: 2px solid black;
+  border-top: 1px solid #999;
+  text-align: left;
 }
-input{
-    height: 35px;
-    border: 2px solid black;
-    border-radius: 20px;
-}
-input::placeholder{
-    padding-left: 10px;
-    font-size: 16px;
-    font-style: italic;
+
+@media screen and (max-width: 500px) {
+  main {
+    padding: 2rem 1rem;
+  }
+
+  .query {
+    grid-template-columns: 75% 20%;
+  }
 }
