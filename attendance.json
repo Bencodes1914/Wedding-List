@@ -1,288 +1,344 @@
 [
-    
-    {
-      "name": "Olarewaju Family",
-      "members": 4,
-      "methodOfInvitation": "Phone"   
-    },
-    {
-        "name": "Akpan Family",
-        "members": 4,
-        "methodOfInvitation": "Phone"
-    },
-    {
-        "name": "Angela Family",
-        "members": 5,
-        "methodOfInvitation": "Phone"
-    },
-    {
-        "name": "Julius Family",
-        "members": 3,
-        "methodOfInvitation": "Phone"
-    },
-    {
-        "name": "Mr Maxwell Bassey",
-        "members": 2,
-        "methodOfInvitation": "Phone"
-    },
-    {
-        "name": "Mr Offiong Ukpong",
-        "members": 1,
-        "methodOfInvitation": "Phone"
-    },
-    {
-        "name": "Nwankwor Family",
-        "members": 4,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Nwachukwu Family",
-        "members": 6,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Chinedu Family",
-        "members": 7,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Ogra Family",
-        "members": 3,
-        "methodOfInvitation": "Phone"
-    },
-    {
-        "name": "Tudonu Family",
-        "members": 2,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Akpan Family",
-        "members": 2,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Ojo Family",
-        "members": 2,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Sis Okoro",
-        "members": 1,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Azubuike Family",
-        "members": 2,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Aaron Family",
-        "members": 2,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Anidu Family",
-        "members": 2,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Effiong Family",
-        "members": 2,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Daniel Ohioma Family",
-        "members": 2,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Sis Anyanwu Christiana",
-        "members": 3,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Daddy Vivian",
-        "members": 1,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Gospel Family",
-        "members": 2,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Nwaodu Family",
-        "members": 2,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Okereke Family",
-        "members": 2,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Ekeh Family",
-        "members": 2,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Abalaba Family",
-        "members": 3,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Egwuogu Family",
-        "members": 2,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Sis Iheme",
-        "members": 1,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Kelvin Family",
-        "members": 5,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Badagry",
-        "members": 1,
-        "methodOfInvitation": "Phone"
-    },
-    {
-        "name": "Awa",
-        "members": 1,
-        "methodOfInvitation": "Phone"
-    },
-    {
-        "name": "Baagry",
-        "members": 1,
-        "methodOfInvitation": "Phone"
-    },
-    {
-        "name": "Rapheal Joel Chibunna",
-        "members": 1,
-        "methodOfInvitation": "Phone"
-    },
-    {
-        "name": "Adeniyi Family",
-        "members": 2,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Olushoye Family",
-        "members": 2,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Salami Family",
-        "members": 2,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Bro Bayu",
-        "members": 1,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Miss Teniola",
-        "members": 1,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Miss Wumi",
-        "members": 1,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Miss Seun",
-        "members": 1,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Taye Kexstro",
-        "members": 1,
-        "methodOfInvitation": "Phone"
-    },
-    {
-        "name": "Akinbobola Family",
-        "members": 2,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Odadhe Family",
-        "members": 2,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name": "Miss Monica Johnson",
-        "members": 1,
-        "methodOfInvitation": "Phone" 
-    },
-    {
-        "name":"Sis Ponjolosun",
-        "members":1 ,
-        "methodOfInvitation": "Phone"
-    },
-    {
-        "name":"Udoh Family",
-        "members": 2,
-        "methodOfInvitation": "Phone"
-    },
-    {
-        "name":"Ekpo Family",
-        "members": 2,
-        "methodOfInvitation": "Phone"
-    },
-    {
-        "name":"Omiunu Family",
-        "members": 2,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name":"Adegbite Family",
-        "members": 5,
-        "methodOfInvitation": "Card"
-    },
-    {
-        "name":"Sis Queen Emoh",
-        "members": 1,
-        "methodOfInvitation": "Phone"
-    },
-    {
-        "name":"Emezua Family",
-        "members": 5,
-        "methodOfInvitation": "Phone"
-    },
-    {
-        "name":"Mr Jesse James",
-        "members":1 ,
-        "methodOfInvitation": "Phone"
-    },
-    {
-        "name":"Papa Linda",
-        "members":1 ,
-        "methodOfInvitation": "Phone"
-    },
-    {
-        "name":"Miss Shulamite Bassey",
-        "members":1 ,
-        "methodOfInvitation": "Phone"
-    },
-    {
-        "name":"Mr Maurice Etim",
-        "members":1 ,
-        "methodOfInvitation": "Phone"
-    },
-    {
-        "name":"Mr's Ismalia",
-        "members": 1,
-        "methodOfInvitation": "Phone"
-    },
-    {
-        "name": "Eno Family",
-        "members": 2,
-        "methodOfInvitation": "Phone"
-    }
+  {
+    "name": "Olarewaju Family",
+    "members": 4,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": false
+  },
+  {
+    "name": "Akpan Family",
+    "members": 4,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Angela Family",
+    "members": 5,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": false
+  },
+  {
+    "name": "Julius Family",
+    "members": 3,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": false
+  },
+  {
+    "name": "Mr Maxwell Bassey",
+    "members": 2,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": false
+  },
+  {
+    "name": "Mr Offiong Ukpong",
+    "members": 1,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Nwankwor Family",
+    "members": 4,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Nwachukwu Family",
+    "members": 6,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Chinedu Family",
+    "members": 7,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Ogra Family",
+    "members": 3,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Tudonu Family",
+    "members": 2,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Akpan Family",
+    "members": 2,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Ojo Family",
+    "members": 2,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Sis Okoro",
+    "members": 1,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Azubuike Family",
+    "members": 2,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Aaron Family",
+    "members": 2,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Anidu Family",
+    "members": 2,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Effiong Family",
+    "members": 2,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Daniel Ohioma Family",
+    "members": 2,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Sis Anyanwu Christiana",
+    "members": 3,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Daddy Vivian",
+    "members": 1,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": false
+  },
+  {
+    "name": "Gospel Family",
+    "members": 2,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Nwaodu Family",
+    "members": 2,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Okereke Family",
+    "members": 2,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Ekeh Family",
+    "members": 2,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Abalaba Family",
+    "members": 3,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Egwuogu Family",
+    "members": 2,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Sis Iheme",
+    "members": 1,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Kelvin Family",
+    "members": 5,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": false
+  },
+  {
+    "name": "Badagry",
+    "members": 1,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": false
+  },
+  {
+    "name": "Awa",
+    "members": 1,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": false
+  },
+  {
+    "name": "*Friend from Badagry",
+    "members": 1,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": false
+  },
+  {
+    "name": "Rapheal Joel Chibunna",
+    "members": 1,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Adeniyi Family",
+    "members": 2,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": false
+  },
+  {
+    "name": "Olushoye Family",
+    "members": 2,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": false
+  },
+  {
+    "name": "Salami Family",
+    "members": 2,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Bro Bayu",
+    "members": 1,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Miss Teniola",
+    "members": 1,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": false
+  },
+  {
+    "name": "Miss Wumi",
+    "members": 1,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": false
+  },
+  {
+    "name": "Miss Seun",
+    "members": 1,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": false
+  },
+  {
+    "name": "Taye Kexstro",
+    "members": 1,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Akinbobola Family",
+    "members": 2,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Odadhe Family",
+    "members": 2,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Miss Monica Johnson",
+    "members": 1,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Sis Ponjolosun",
+    "members": 1,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Udoh Family",
+    "members": 2,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Ekpo Family",
+    "members": 2,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Omiunu Family",
+    "members": 2,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Adegbite Family",
+    "members": 5,
+    "methodOfInvitation": "Card",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Sis Queen Emoh",
+    "members": 1,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Emezua Family",
+    "members": 5,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": true
+  },
+  {
+    "name": "Mr Jesse James",
+    "members": 1,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": false
+  },
+  {
+    "name": "Papa Linda",
+    "members": 1,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": false
+  },
+  {
+    "name": "Miss Shulamite Bassey",
+    "members": 1,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": false
+  },
+  {
+    "name": "Mr Maurice Etim",
+    "members": 1,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": false
+  },
+  {
+    "name": "Mr's Ismalia",
+    "members": 1,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": false
+  },
+  {
+    "name": "Eno Family",
+    "members": 2,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": false
+  }
 ]

@@ -1,19 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Wedding List.</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
     <main>
-        <input type="text" id="input-field" placeholder="Enter Text">
-        <button onclick="inputFunction()"></button>
-        <table id="attendee-table">
-        </table>
+      <h1>Wedding Guest List</h1>
+
+      <div class="query">
+        <input type="text" id="input-field" placeholder="Search guests..." />
+        <button onclick="inputFunction()">Search</button>
+      </div>
+      <table id="attendee-table"></table>
     </main>
-    
+
     <script src="./script.js"></script>
-</body>
+  </body>
 </html>
