@@ -336,7 +336,19 @@
     "hasBeenInvited": false
   },
   {
-    "name": "Eno Family",
+    "name": "Eno Adedeji",
+    "members": 2,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": false
+  },
+  {
+    "name": "Sis Lola Egbowon",
+    "members": 1,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": false
+  },
+  {
+    "name": "Sis Peggy Johnson",
     "members": 2,
     "methodOfInvitation": "Phone",
     "hasBeenInvited": false
