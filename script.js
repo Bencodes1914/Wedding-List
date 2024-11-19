@@ -54,7 +54,9 @@ const loopResult = (data) => {
                 <td>${element.members}</td>
                 <td>${element.methodOfInvitation}</td>
                 <td>${element.hasBeenInvited}</td>
-                <td><input type="check-box"/></td>
+                <td>
+                <input type="check-box"/>
+                </td>
             </tr>
         `;
   });
