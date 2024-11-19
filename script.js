@@ -10,6 +10,7 @@ const tableHead = `
         <th scope="col">Number.</th>
         <th scope="col">Method of Invitation.</th>
         <th scope="col">Invite Sent.</th>
+        <th scope="col">Check.</th>
     </tr>
 `;
 
@@ -53,6 +54,7 @@ const loopResult = (data) => {
                 <td>${element.members}</td>
                 <td>${element.methodOfInvitation}</td>
                 <td>${element.hasBeenInvited}</td>
+                <td>${element.check}</td>
             </tr>
         `;
   });
