@@ -54,7 +54,7 @@ const loopResult = (data) => {
                 <td>${element.members}</td>
                 <td>${element.methodOfInvitation}</td>
                 <td>${element.hasBeenInvited}</td>
-                <td>${element.check}</td>
+                <td><input type="check-box"/></td>
             </tr>
         `;
   });
@@ -81,7 +81,7 @@ const loopResult = (data) => {
 };
 
 const getData = () => {
-  fetch(`${prodHostUrl}/attendance.json`)
+  fetch(`${localHostUrl}/attendance.json`)
     .then(async (data) => {
       attendeeData = await data.json();
       loopResult(attendeeData);
