@@ -81,7 +81,7 @@ const loopResult = (data) => {
 };
 
 const getData = () => {
-  fetch(`${localHostUrl}/attendance.json`)
+  fetch(`${prodHostUrl}/attendance.json`)
     .then(async (data) => {
       attendeeData = await data.json();
       loopResult(attendeeData);
