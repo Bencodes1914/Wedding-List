@@ -108,3 +108,7 @@ th {
     grid-template-columns: 75% 20%;
   }
 }
+.checkBox{
+  width: 10px;
+  height: 10px;
+}
