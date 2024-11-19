@@ -3,7 +3,7 @@
     "name": "Olarewaju Family",
     "members": 4,
     "methodOfInvitation": "Phone",
-    "hasBeenInvited": false
+    "hasBeenInvited": true
   },
   {
     "name": "Akpan Family",
@@ -15,19 +15,19 @@
     "name": "Angela Family",
     "members": 5,
     "methodOfInvitation": "Phone",
-    "hasBeenInvited": false
+    "hasBeenInvited": true
   },
   {
     "name": "Julius Family",
     "members": 3,
     "methodOfInvitation": "Phone",
-    "hasBeenInvited": false
+    "hasBeenInvited": true
   },
   {
     "name": "Mr Maxwell Bassey",
     "members": 2,
     "methodOfInvitation": "Phone",
-    "hasBeenInvited": false
+    "hasBeenInvited": true
   },
   {
     "name": "Mr Offiong Ukpong",
@@ -123,7 +123,7 @@
     "name": "Daddy Vivian",
     "members": 1,
     "methodOfInvitation": "Card",
-    "hasBeenInvited": false
+    "hasBeenInvited": true
   },
   {
     "name": "Gospel Family",
@@ -171,25 +171,25 @@
     "name": "Kelvin Family",
     "members": 5,
     "methodOfInvitation": "Card",
-    "hasBeenInvited": false
+    "hasBeenInvited": true
   },
   {
     "name": "Badagry",
     "members": 1,
     "methodOfInvitation": "Phone",
-    "hasBeenInvited": false
+    "hasBeenInvited": true
   },
   {
     "name": "Chinedu Awa",
     "members": 1,
     "methodOfInvitation": "Phone",
-    "hasBeenInvited": false
+    "hasBeenInvited": true
   },
   {
     "name": "Benia Baagry",
     "members": 1,
     "methodOfInvitation": "Phone",
-    "hasBeenInvited": false
+    "hasBeenInvited": true
   },
   {
     "name": "Rapheal Joel Chibunna",
@@ -201,13 +201,13 @@
     "name": "Adeniyi Family",
     "members": 2,
     "methodOfInvitation": "Card",
-    "hasBeenInvited": false
+    "hasBeenInvited": true
   },
   {
     "name": "Olushoye Family",
     "members": 2,
     "methodOfInvitation": "Card",
-    "hasBeenInvited": false
+    "hasBeenInvited": true
   },
   {
     "name": "Salami Family",
@@ -225,19 +225,19 @@
     "name": "Miss Teniola",
     "members": 1,
     "methodOfInvitation": "Card",
-    "hasBeenInvited": false
+    "hasBeenInvited": true
   },
   {
     "name": "Miss Wumi",
     "members": 1,
     "methodOfInvitation": "Card",
-    "hasBeenInvited": false
+    "hasBeenInvited": true
   },
   {
     "name": "Miss Seun",
     "members": 1,
     "methodOfInvitation": "Card",
-    "hasBeenInvited": false
+    "hasBeenInvited": true
   },
   {
     "name": "Taye Kexstro",
@@ -309,48 +309,48 @@
     "name": "Mr Jesse James",
     "members": 1,
     "methodOfInvitation": "Phone",
-    "hasBeenInvited": false
+    "hasBeenInvited": true
   },
   {
     "name": "Papa Linda",
     "members": 1,
     "methodOfInvitation": "Phone",
-    "hasBeenInvited": false
+    "hasBeenInvited": true
   },
   {
     "name": "Miss Shulamite Bassey",
     "members": 1,
     "methodOfInvitation": "Phone",
-    "hasBeenInvited": false
+    "hasBeenInvited": true
   },
   {
     "name": "Mr Maurice Etim",
     "members": 1,
     "methodOfInvitation": "Phone",
-    "hasBeenInvited": false
+    "hasBeenInvited": true
   },
   {
     "name": "Mr's Ismalia",
     "members": 1,
     "methodOfInvitation": "Phone",
-    "hasBeenInvited": false
+    "hasBeenInvited": true
   },
   {
     "name": "Eno Adedeji",
     "members": 2,
     "methodOfInvitation": "Phone",
-    "hasBeenInvited": false
+    "hasBeenInvited": true
   },
   {
     "name": "Sis Lola Egbowon",
     "members": 1,
     "methodOfInvitation": "Phone",
-    "hasBeenInvited": false
+    "hasBeenInvited": true
   },
   {
     "name": "Sis Peggy Johnson",
     "members": 1,
     "methodOfInvitation": "Phone",
-    "hasBeenInvited": false
+    "hasBeenInvited": true
   }
 ]
