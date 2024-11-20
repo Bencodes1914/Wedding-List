@@ -10,7 +10,7 @@ const tableHead = `
         <th scope="col">Number.</th>
         <th scope="col">Method of Invitation.</th>
         <th scope="col">Invite Sent.</th>
-        <th scope="col">Check.</th>
+        <th scope="col">Is Present.</th>
     </tr>
 `;
 
@@ -55,7 +55,7 @@ const loopResult = (data) => {
                 <td>${element.methodOfInvitation}</td>
                 <td>${element.hasBeenInvited}</td>
                 <td>
-                <input type="checkbox" id="checkBox"/>
+                  <input type="checkbox" id="checkBox"/>
                 </td>
             </tr>
         `;
