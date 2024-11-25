@@ -352,5 +352,17 @@
     "members": 1,
     "methodOfInvitation": "Phone",
     "hasBeenInvited": true
+  },
+  {
+    "name": "Bro Kehinde Durosimi",
+    "members":2 ,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": true
+  },
+  {
+    "name":"Bro Henry",
+    "members": 2,
+    "methodOfInvitation": "Phone",
+    "hasBeenInvited": true
   }
 ]
